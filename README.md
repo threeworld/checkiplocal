@@ -20,7 +20,7 @@ Usage:
   checkiplocal [OPTIONS]
 
 Application Options:
-  -t, --threads= How many threads should be used (default: 8)
+  -t, --threads  How many threads should be used (default: 8)
   -c, --city     Print the city where the IP is located
   -r, --region   Print the area where the IP is located
   -a, --addr     Print the exact address of the IP by default
